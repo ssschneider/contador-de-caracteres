@@ -4,7 +4,7 @@ body {
     background: linear-gradient(to bottom, #FF8235, #30E8BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-repeat: no-repeat;
-    height: 87.8vh;
+    height: 84.7vh;
 }
 
 h1, p, span {
@@ -13,22 +13,23 @@ h1, p, span {
 }
 
 h1 {
-    font-size: 1.3rem;
-    width: 70%;
-    margin: 20px auto 10px;
+    font-size: 5rem;
+    width: 50%;
+    margin: 100px auto 50px;
 }
 
 textarea {
     border: 0px;
-    border-radius: 5px;
-    padding: 5px;
+    border-radius: 10px;
+    padding: 10px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     color: #0e0e0e;
     outline: none;
-    margin-left: 30.5%;
-    width: 130px;
+    margin-left: 29%;
+    width: 550px;
+    height: 150px;
     font-family: 'Inter Tight', sans-serif;
-    font-size: 0.5rem;
+    font-size: 1.8rem;
     text-decoration: none;
     resize: none;
     transition: 0.5s ease-in-out;
@@ -43,8 +44,8 @@ textarea:hover {
 }
 
 p, span {
-    font-size: 0.4rem;
-    margin-top: 10px;
+    font-size: 2rem;
+    margin-top: 30px;
 }
 
 span {
